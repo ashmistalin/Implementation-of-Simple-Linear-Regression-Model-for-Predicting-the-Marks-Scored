@@ -8,12 +8,12 @@ To write a program to implement the simple linear regression model for predictin
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-To implement the linear regression using the standard libraries in the python.
-Use slicing function() for the X,y values.
-Using sklearn library import training , testing and linear regression modules.
-Predict the value for the y.
-Using matplotlib library plot the graphs.
-End the program.
+1.  To implement the linear regression using the standard libraries in the python.
+2.  Use slicing function() for the X,y values.
+3.  Using sklearn library import training , testing and linear regression modules.
+4.  Predict the value for the y.
+5.  Using matplotlib library plot the graphs.
+6.  End the program.
 
 ## Program:
 ```
